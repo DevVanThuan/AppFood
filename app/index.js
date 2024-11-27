@@ -5,7 +5,7 @@ import { TouchableOpacity } from 'react-native'
 import Catogories from '../components/Catogories'
 import Menuchoose from '../components/Menuchoose'
 import Time_and_local from '../components/Time_and_local'
-//hello ádas
+//hello ádasádasdasd
 export default function index() {
   return (
     <View style={styles.container}>
